@@ -57,7 +57,7 @@ color: white;
 background-color: yellow;
 border: 5px dashed red;
 width: 670px;
-margin-left: 350px;
+margin-left: 200px;
 }
 footer img{
     background-color: yellowgreen;
@@ -66,7 +66,7 @@ footer p{
     margin-left: 400px;
     text-align: center;
     background-color: red;
-    width: 300px;
+    width: 100px;
 
 }
 h1{
